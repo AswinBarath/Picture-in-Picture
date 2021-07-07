@@ -7,12 +7,21 @@
 
 <br/>
 
-### Screemshots
+### Snapshots
+
+- Choose what option to share the contents of your screens: Entire Screen, Window, or a Chrome (Browser) tab
 
 <img src="Screenshot 1.png" />
 <img src="Screenshot 2.png" />
 <img src="Screenshot 3.png" />
+
+- The selected screen will start sharing the screen for the Picture-in-Picture project website
+
 <img src="Screenshot 4.png" />
+
+- Click start button to start the feature. 
+- As you can see, I have shared my Video song window:
+
 <img src="Screenshot 5.png" />
 <img src="Screenshot 6.png" />
 
